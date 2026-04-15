@@ -47,7 +47,7 @@ My work combines:
 ---
 
 ## Tech Stack
-`SQL` `Python` `PySpark` `BigQuery` `GCP` `Google Colab` `Airflow` `Tableau` `Looker Studio` `Power BI`
+`SQL` `Python` `Spark` `BigQuery` `GCP` `Big Data` `Airflow` `Tableau` `Looker Studio` `Power BI`
 
 ---
 
